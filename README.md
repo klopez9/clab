@@ -1,5 +1,5 @@
-dictionary lab
-==============
+dictionary
+==========
 
 "C-Lab" assignment
 
