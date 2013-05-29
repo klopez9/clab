@@ -1,0 +1,15 @@
+==18492== Memcheck, a memory error detector
+==18492== Copyright (C) 2002-2010, and GNU GPL'd, by Julian Seward et al.
+==18492== Using Valgrind-3.6.1 and LibVEX; rerun with -h for copyright info
+==18492== Command: ./clab.exe 105-words.txt dictionary.txt
+==18492== Parent PID: 17793
+==18492== 
+==18492== 
+==18492== HEAP SUMMARY:
+==18492==     in use at exit: 0 bytes in 0 blocks
+==18492==   total heap usage: 111 allocs, 111 frees, 5,035 bytes allocated
+==18492== 
+==18492== All heap blocks were freed -- no leaks are possible
+==18492== 
+==18492== For counts of detected and suppressed errors, rerun with: -v
+==18492== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 4 from 4)
