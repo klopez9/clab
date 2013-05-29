@@ -1,7 +1,7 @@
-clab
-====
+dictionary lab
+==============
 
-"C-Lab" assignment in computer science class
+"C-Lab" assignment
 
 This lab assignment was designed to get us (the students) better acquainted with the C programming language. This program:
 
